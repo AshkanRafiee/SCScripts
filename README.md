@@ -1,0 +1,2 @@
+# SCScripts
+Security Checkup Scripts!
